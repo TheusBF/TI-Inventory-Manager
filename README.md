@@ -39,3 +39,41 @@ O projeto foi desenvolvido com o objetivo de auxiliar no controle de inventário
 ---
 
 ## 📂 Estrutura do projeto
+
+## 📂 Estrutura do projeto
+
+```text
+TI-Inventory-Manager
+│
+├── assets
+│   └── css
+│
+├── auth
+│   ├── login.php
+│   ├── logout.php
+│   ├── proteger.php
+│   └── proteger_admin.php
+│
+├── config
+│   └── conexao.php
+│
+├── database
+│   └── inventario_ti.sql
+│
+├── equipamentos
+│   ├── cadastrar.php
+│   ├── detalhes.php
+│   ├── editar.php
+│   ├── editar_manutencao.php
+│   ├── listar.php
+│   └── manutencao.php
+│
+├── includes
+│   └── sidebar.php
+│
+├── usuarios
+│   └── listar.php
+│
+├── historico.php
+├── index.php
+└── README.md
