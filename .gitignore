@@ -1,0 +1,29 @@
+# XAMPP / Ambiente local
+xampp/
+*.log
+
+# Configurações locais
+.env
+.env.*
+!.env.example
+
+# IDE / Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Backups
+backup/
+backups/
+*.sql.bak
