@@ -40,8 +40,6 @@ O projeto foi desenvolvido com o objetivo de auxiliar no controle de inventário
 
 ## 📂 Estrutura do projeto
 
-## 📂 Estrutura do projeto
-
 ```text
 TI-Inventory-Manager
 │
